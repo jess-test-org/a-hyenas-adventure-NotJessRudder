@@ -2,6 +2,4 @@ Changes to the template
 
 More changes
 
-Ooops all changes.
-
-This is coming from the starter code repo.
+This was made by Jess in the resolving conflicts interface.
