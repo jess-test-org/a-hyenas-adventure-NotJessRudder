@@ -3,4 +3,6 @@ Changes to the template
 
 More changes
 
-Ooops all changes.
+This was done while resolving conflicts.
+
+Another change.
