@@ -2,4 +2,4 @@ Changes to the template
 
 More changes
 
-This is coming from the starter code repository.
+This was done while resolving conflicts.
