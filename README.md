@@ -4,4 +4,4 @@ More changes
 
 Maybe different changes.
 
-This is coming from the student repo.
+This is coming from the student repository.
